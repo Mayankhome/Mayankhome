@@ -1,4 +1,6 @@
 ### Hi there 👋
+This is my first repository
+Author - Mayank Raj
 
 <!--
 **Mayankhome/Mayankhome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
